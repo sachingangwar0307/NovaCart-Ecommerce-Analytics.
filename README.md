@@ -84,5 +84,4 @@ Some SQL outputs convert INR to USD using a fixed exchange-rate assumption of **
 
 ## Notes
 
-- The AtliQ Hardware SQL scripts were intentionally excluded because they belong to a separate project.
 - The repository includes the current analysis workbook and exported CSV outputs; a Power BI `.pbix` file or dashboard screenshots were not present among the supplied project files.
